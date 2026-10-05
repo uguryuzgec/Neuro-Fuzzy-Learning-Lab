@@ -1,0 +1,38 @@
+[
+  {
+    "dataset": "airfoil",
+    "url": "https://archive.ics.uci.edu/static/public/291/airfoil+self+noise.zip",
+    "source_file": "airfoil_self_noise.dat",
+    "rows": 1503,
+    "columns": 6,
+    "zip_sha256": "5C7767BA53AD827D3F48BA1EB9434117F4892DF8F10BC4C99E118A9E8A7AE07C",
+    "csv_sha256": "DCD701F4F2E79D7D39BC15B7F7999D078C3D07640765E984714BFAE57C8F2240"
+  },
+  {
+    "dataset": "yacht",
+    "url": "https://archive.ics.uci.edu/static/public/243/yacht+hydrodynamics.zip",
+    "source_file": "yacht_hydrodynamics.data",
+    "rows": 308,
+    "columns": 7,
+    "zip_sha256": "AA52B68F88C4BB552187A53EF4C5753FA178F6A36035A3771C5BC04E078487AC",
+    "csv_sha256": "CD2E99BF28E22A2A6152D761E5BA32F1A1670F744572DC5DDC99352C4B6440CD"
+  },
+  {
+    "dataset": "seeds",
+    "url": "https://archive.ics.uci.edu/static/public/236/seeds.zip",
+    "source_file": "seeds_dataset.txt",
+    "rows": 210,
+    "columns": 8,
+    "zip_sha256": "5033BD71B24592FA70D9B3CC5BE02332DC6D03D0B27E6655E6D553F39AFAB323",
+    "csv_sha256": "D121BF0102985713BE8BB5FF6464AC69A484FB5096C745F8A3CAAE2ADB261D80"
+  },
+  {
+    "dataset": "sonar",
+    "url": "https://archive.ics.uci.edu/static/public/151/connectionist+bench+sonar+mines+vs+rocks.zip",
+    "source_file": "sonar.all-data",
+    "rows": 208,
+    "columns": 61,
+    "zip_sha256": "088B0B6813FB5AB84736BC2A1E3D6BB886E317520D2F2C04152E2ED65AF7A18D",
+    "csv_sha256": "2EDFB30A9FEF31C165F41DC92EC4457CB412A4A925F4C076B37ACCA83664E37E"
+  }
+]
